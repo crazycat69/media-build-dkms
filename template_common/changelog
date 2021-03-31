@@ -1,36 +1,7 @@
 media-build-dkms (@DKMS_DIST_VERSION@) @DKMS_VARIANT@; urgency=@DKMS_URGENCY@
 
   * Used upstream packages:
-      https://github.com/jasmin-j/media_build/tree/dkms/0006-14_Jul_2018
-      https://github.com/jasmin-j/dddvb-linux-kernel/tree/dkms/0006-14_Jul_2018
+      https://github.com/crazycat69/media_build
+      https://github.com/crazycat69/linux_media
 
- -- Jasmin Jessich <jasmin@anw.at>  Sat, 14 Jul 2018 19:02:46 +0200
-
-media-build-dkms (@DKMS_DIST_VERSION@) @DKMS_VARIANT@; urgency=@DKMS_URGENCY@
-
-  * Used upstream packages:
-      https://github.com/jasmin-j/media_build/tree/dkms/0005-01_Jun_2018
-      https://github.com/jasmin-j/dddvb-linux-kernel/tree/dkms/0005-01_Jun_2018
-
- -- Jasmin Jessich <jasmin@anw.at>  Fri, 01 Jun 2018 19:50:48 +0200
-
-media-build-dkms (@DKMS_DIST_VERSION@) @DKMS_VARIANT@; urgency=@DKMS_URGENCY@
-
-  * Used upstream packages:
-      https://github.com/jasmin-j/media_build/tree/dkms/0004-10_Sep_2017
-      https://github.com/jasmin-j/dddvb-linux-kernel/tree/dkms/0003-29_Aug_2017
-
-    Added support for forced module installation.
-    Added support to remove updated modules (deactivated!).
-    Added missing functions nsecs_to_jiffies(64)
-
- -- Jasmin Jessich <jasmin@anw.at>  Sun, 10 Sep 2017 23:30:43 +0200
-
-media-build-dkms (@DKMS_DIST_VERSION@) @DKMS_VARIANT@; urgency=@DKMS_URGENCY@
-
-  * initial build
-    Used upstream packages:
-      https://github.com/jasmin-j/media_build/tree/dkms/0003-08_Sep_2017
-      https://github.com/jasmin-j/dddvb-linux-kernel/tree/dkms/0003-29_Aug_2017
-
- -- Jasmin Jessich <jasmin@anw.at>  Fri, 08 Sep 2017 00:13:05 +0200
+ -- CrazyCat <crazycat69@narod.ru>  Wed, 31 Mar 2021 21:04:20 +0300

@@ -1,7 +1,7 @@
 Source: media-build-dkms
 Section: misc
 Priority: optional
-Maintainer: Jasmin Jessich <jasmin@anw.at>
+Maintainer: CrazyCat <crazycat69@narod.ru>
 Build-Depends: debhelper (>= 9), dkms, libproc-processtable-perl
 Standards-Version: 3.9.7
 

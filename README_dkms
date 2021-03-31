@@ -5,7 +5,7 @@ This file describes how to create a Debian (Ubuntu) media-build DKMS package.
 
 You need a TGZ file containing the DKMS sources. This TGZ file can be created
 with scripts from the dkms/???? branches on 
-   https://github.com/jasmin-j/media_build
+   https://github.com/crazycat69/media_build
 
 Please checkout the latest (highest number) of those branches and read the
 README_dkms file there for the instructions.
