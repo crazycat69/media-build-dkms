@@ -28,6 +28,6 @@ function do_prepare_Ubuntu {
 
 # main
 
-do_prepare_Ubuntu xenial
+#do_prepare_Ubuntu xenial
 do_prepare_Ubuntu bionic
 do_prepare_Ubuntu focal
